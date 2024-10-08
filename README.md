@@ -6,7 +6,7 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/kl
 
 ## Hardware
 - **Zortrax M300** 
-**The components below replace the original ZORTRAX components**
+- **The components below replace the original ZORTRAX components**
 - **BTT Manta M4P**
 - **BTT CB2**
 - **TMC 2209 drivers**
